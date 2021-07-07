@@ -1,6 +1,6 @@
 # Arousal-Detector-ANPHY-Integration
 
-This is a repository for COMP 401 Summer Project at the [ANPHY lab](https://www.mcgill.ca/frauscher-lab/) in McGill Univeristy.
+This is a repository for COMP 401 Summer Project at the [ANPHY lab](https://www.mcgill.ca/frauscher-lab/) in McGill Univeristy. SigFI scripts used are not included as AFAIK not a open source distribution.
 
 ## Workflow
 ### 1) Preprocessing.m
